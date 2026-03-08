@@ -4,12 +4,11 @@
 3. Project Structure
 4. Installation
 5. Usage
-6. Machine Learning Models
-7. Visualization
-8. Future Enhancements
-9. License
-10. Acknowledgements
-11. Contact
+6. Visualization
+7. Future Enhancements
+8. License
+9. Acknowledgements
+10. Contact
 ---
 ## Overview
 The objective of this project is to build a scalable and modular pipeline using Python for:
@@ -79,15 +78,6 @@ los-angeles-crime-data-analytics/
    Check the `logs/project.log` file for detailed logging information and error messages.
 4. **Dashboard Integration:**  
    Processed output files (e.g., summary CSVs and plots) in `data/processed/` can be imported into PowerBI for interactive visualization.
----
-## Machine Learning Models
-- **Classification:**  
-  Predicts the likelihood of an arrest using features such as year, location coordinates, and other attributes.
-- **Clustering:**  
-  Uses clustering algorithms (e.g., KMeans) to identify and segment crime hotspots.
-- **Regression:**  
-  Forecasts crime counts over time (e.g., per year) using regression models such as RandomForestRegressor.
-Each model is implemented in `model.py` with appropriate evaluation metrics (accuracy, MSE, silhouette score).
 ---
 ## Visualization
 The `visualization.py` module generates:
