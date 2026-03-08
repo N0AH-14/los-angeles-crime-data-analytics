@@ -1,6 +1,6 @@
 # Crime Data Analytics Pipeline — Comprehensive Project Analysis
 
-> **Author:** Auto-Generated Analysis  
+> **Author:** Krishna Jodha  
 > **Date:** March 8, 2026  
 > **Project:** `K:\Projects\Chicago Crime`  
 > **Repository:** `N0AH-14/Chicago-Crime`
